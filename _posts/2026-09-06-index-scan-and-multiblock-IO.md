@@ -5,7 +5,7 @@ categories: [Database, SQL Tuning]
 tags: [oracle, index]
 ---
 
-# 왜 Index Range Scan은 연속적인 Multiblock I/O를 활용하기 어려울까?
+## 의문 제기
 
 `친절한 SQL 튜닝` 1장 스터디를 진행하는 날이었다. 기본적인 데이터베이스의 구조와 SQL의 처리 과정, 데이터 구조 및 I/O와 관한 내용들이 주를 이루었다. 
 
